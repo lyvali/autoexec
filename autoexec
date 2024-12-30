@@ -1,9 +1,9 @@
 local StarterGui = game:GetService("StarterGui")
-print('forlorn api injected vroom')
+print('api injected go vroom vroom')
 
 StarterGui:SetCore("SendNotification", {
 	Title = "Daydream | Injection";
 	Text = "Injected!";
-  Icon = "rbxassetid://107591857650785";
+  	Icon = "rbxassetid://107591857650785";
 	Duration = 5;
 })
